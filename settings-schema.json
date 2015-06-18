@@ -1,0 +1,7 @@
+{
+    "showpercentage": {
+        "type": "checkbox",
+        "description": "Show percentage and time remaining",
+        "default": false
+    }
+}

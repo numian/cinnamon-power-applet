@@ -1,0 +1,6 @@
+{
+ "uuid": "power@marcosantos.me",
+ "name": "Power Manager with time remaining",
+ "description": "Cinnamon power management applet",
+ "icon": "battery-full-charging"
+}
